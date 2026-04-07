@@ -27,7 +27,7 @@ style: |
     position: absolute;
     top: 30px; left: 60px; right: 60px;
   }
-  .logo-header img { height: 80px; filter: grayscale(1) brightness(1.5); }
+  .logo-header img { height: 150px}
   
   .cycle-card {
     background: #18181b;
